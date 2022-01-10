@@ -1,0 +1,3 @@
+if "r" pressed - download img src="https://bbts1.azureedge.net/images/p/full/2020/12/c24bc6fa-162d-4681-902a-b48e94f02909.jpg"
+if "x" pressed - download img src="https://static.wikia.nocookie.net/powerrangers/images/8/83/Boom-allrangers-yellow.jpg/revision/latest/scale-to-width-down/600?cb=20180330113357"
+if "t" pressed - download img src="https://static.wikia.nocookie.net/powerrangers/images/d/d7/Boom-allrangers-green.jpg/revision/latest/scale-to-width-down/632?cb=20180724084840 "
